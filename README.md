@@ -19,8 +19,8 @@ An intelligent language translation application that leverages modern AI models 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML / CSS / JavaScript (or React, if applicable)
-- **Backend:** Node.js / Serverless Functions
+- **Frontend:** React / TypeScript
+- **Backend:** Firebase
 - **AI / NLP:** Language Translation API or AI Model
 - **Deployment:** Cloud Functions / Web Hosting Platform
 
