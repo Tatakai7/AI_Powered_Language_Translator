@@ -54,21 +54,32 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-powered-language-translator.git
+git clone https://github.com/Tatakai7/AI_Powered_language_Translator.git
+```
 
+```bash
 # Navigate to the project directory
-cd AI-Powered-Language-Translator
+cd AI_Powered_Language_Translator
+```
 
+```bash
 # Install dependencies
 npm install
 ```
+
+---
 
 ### Environment Setup
 
 Create a `.env` file based on the example provided:
 
 ```env
-TRANSLATION_API_KEY=your_api_key_here
+VITE_FIREBASE_API_KEY=your_api_key_here
+VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain_here
+VITE_FIREBASE_PROJECT_ID=your_project_id_here
+VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket_here
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id_here
+VITE_FIREBASE_APP_ID=your_app_id_here
 ```
 
 ### Run the Application
@@ -112,30 +123,13 @@ http://localhost:3000
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Pull requests are welcome! Feel free to suggest improvements, fix bugs, or expand features.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
-
----
-
-## 👨‍💻 Author
-
-**John Raymond Caberte**
-Passionate Full Stack Web Developer who transforms ideas into elegant digital solutions.
-
-- 🌐 Portfolio: _Coming Soon_
-- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+GNU General Public License v3.0 © 2025
 
 ---
 
