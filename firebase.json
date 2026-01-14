@@ -1,0 +1,18 @@
+{
+  "version": "2",
+  "projectNumber": "651128335020",
+  "projectId": "ai-powered-language-tran-66c7b",
+  "appId": "1:651128335020:web:fd8350a7a935d62ee94d09",
+  "realtimeDatabaseInstanceUri": "",
+  "realtimeDatabaseUrl": "",
+  "storageBucket": "ai-powered-language-tran-66c7b.firebasestorage.app",
+  "locationId": "",
+  "apiKey": "AIzaSyCDDQfEJ8Y4QfshFWvaGhmSVErnf7u2q24",
+  "authDomain": "ai-powered-language-tran-66c7b.firebaseapp.com",
+  "messagingSenderId": "651128335020",
+  "measurementId": "",
+  "functions": {
+  "source": "functions",
+  "runtime": "nodejs18"
+  }
+}
