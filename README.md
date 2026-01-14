@@ -85,13 +85,13 @@ VITE_FIREBASE_APP_ID=your_app_id_here
 ### Run the Application
 
 ```bash
-npm start
+npm run dev
 ```
 
 The app will be available at:
 
 ```
-http://localhost:3000
+http://localhost:5173/
 ```
 
 ---
